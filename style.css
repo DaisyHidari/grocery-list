@@ -1,0 +1,30 @@
+
+h2 {
+    background-color:lightblue;
+    color: darkblue;
+    box-sizing: content-box;
+    width: max-content;
+    border: solid #5B6DCD 3px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.List {
+    display: inline-block;
+    width:200px;
+    background-color:lightgray;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+img {
+    display: inline-block;
+    border: solid slategray 1px;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 21%;
+    height:auto; 
+    padding-top: 10px;
+}
